@@ -1,7 +1,7 @@
 
 # Chat-Room
 
-A One-to-One/Group chat application  
+A One-to-One/Group chat application using Web-sockets
 
 
 ## Features
